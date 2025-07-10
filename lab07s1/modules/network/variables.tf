@@ -1,0 +1,10 @@
+variable "vnet_name" {}
+variable "vnet_address_space" {}
+variable "subnet1_name" {}
+variable "subnet1_address" {}
+variable "subnet2_name" {}
+variable "subnet2_address" {}
+variable "nsg1_name" {}
+variable "nsg2_name" {}
+variable "location" {}
+variable "resource_group_name" {}
